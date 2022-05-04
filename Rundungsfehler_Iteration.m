@@ -1,4 +1,4 @@
-%aufgabe2.4
+% Übungsblatt 2_ Einführung in die Numerik SoSe 2022
 a=9/10;
 b=10;
 c=0.01;

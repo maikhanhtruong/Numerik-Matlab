@@ -1,4 +1,4 @@
-
+% Übungsblatt 3_ Einführung in die Numerik SoSe 2022
 
 % Definiere das LGS
  A = [1 2 2 1; 1 0 4 5; 8 2 1 1; 1 1 0 0];

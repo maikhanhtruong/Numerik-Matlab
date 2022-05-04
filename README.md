@@ -13,5 +13,6 @@ Aufgabe 2.4
 
 Aufgabe 3.4
 
-![image](https://user-images.githubusercontent.com/70972199/166640106-6c4abf2a-92dc-43c2-aa93-4fd013d5bb94.png)
+![image](https://user-images.githubusercontent.com/70972199/166641045-25146a60-afec-4d98-926e-00c4dcd29d8d.png)
+
 

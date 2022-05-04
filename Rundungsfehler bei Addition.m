@@ -1,4 +1,4 @@
-% Übungsblatt 1_ Einführung in die Numerik SoSe 2022
+% Übungsblatt 1 _ Einführung in die Numerik SoSe 2022
 
 function epsilon= aufgabe4
 epsilon=zeros(30,3);          % eine leere Matrix herstellen
